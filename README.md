@@ -1,6 +1,6 @@
 <h2> Computer Science student - USP (University of São Paulo) </h2>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=30A6DA&width=435&lines=Welcome+to+Leticia's+profile!)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=30A6DA&width=435&lines=Welcome+to+Leticia's+profile!" alt="Typing SVG" /></a>
 
 <br>
   <div align="center">
