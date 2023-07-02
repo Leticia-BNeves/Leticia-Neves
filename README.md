@@ -2,7 +2,6 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=30A6DA&width=435&lines=Welcome+to+Leticia's+profile!" alt="Typing SVG" /></a>
 
-<br>
   <div align="center">
     <img align="center" src="https://media2.giphy.com/media/lBIEqcrsAoW5X6wwT4/giphy.gif?cid=ecf05e472h379pv7nq8v90fzi5dxiicttgk5i0p5gvlhbxst&ep=v1_gifs_search&rid=giphy.gif&ct=g">
   </div>
