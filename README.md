@@ -3,7 +3,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=30A6DA&width=435&lines=Welcome+to+Leticia's+profile!" alt="Typing SVG" /></a>
 
   <div align="center">
-    <img align="center" src="https://static.wikia.nocookie.net/outerwilds_gamepedia/images/b/b9/Supernova.gif/revision/latest/scale-to-width-down/600?cb=20210624202543">
+    <img align="center" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ21oZnN3Z2FqbjFhaTZrd3B6OWdpeXhrNGpuYTJ1bGdqMHQ2b2Q4eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lBIEqcrsAoW5X6wwT4/giphy.gif">
   </div>
 <br>
 
