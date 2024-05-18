@@ -15,6 +15,7 @@
 <img align="left" alt="html" src="https://img.icons8.com/color/48/000000/html-5.png" width="40" height="40" >
 <img align="left" alt="css" src="https://img.icons8.com/color/48/000000/css3.png" width="40" height="40">
 <img align="left" alt="python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40">
+<img align="left" alt="java" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40">
 
 </ul>
 
